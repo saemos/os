@@ -1,0 +1,14 @@
+# Fundamentals of C, C++ and Python
+def python_loop():
+    for i in range(5):
+        print(i)
+
+int c_function() {
+    int x = 10;
+    return x;
+}
+
+class CppClass {
+    public:
+        int val;
+};
